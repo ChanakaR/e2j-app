@@ -1,5 +1,7 @@
 # Gmail to Jira Integration App
 
+![Gmail to Jira Integration Demo](utils/cover.png)
+
 A Google Workspace Add-on that seamlessly integrates Gmail with Jira, allowing users to create Jira issues directly from their emails.
 
 ## Features
